@@ -2,6 +2,9 @@
 This resources list from Use React Native, [React native guide](https://github.com/ele828/react-native-guide), [awesome react native](https://github.com/jondot/awesome-react-native)
 
 - [React native resources](#)
+	- [Get Started](#get-started)
+		- [Tutorial](#tutorial)
+		- [App Sample](#app-sample)
 	- [UI Components](#ui-components)
 		- [Material Design](#material-design)
 		- [Click](#click)
@@ -24,6 +27,16 @@ This resources list from Use React Native, [React native guide](https://github.c
 		- [Location](#location)
 		- [Gesture](#gesture)
 		- [Localization](#localization)
+
+## Get Started
+### Tutorial
+#### [React native lessons(React native 入门指南) from engineer of CTRIP（携程)](https://github.com/vczero/react-native-lession)
+ - 实例应用，组件
+ - PPT分享
+
+### APP Sample
+#### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
+ - ![enter image description here](https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg)
 
 ## UI Components
 ### Material Design
