@@ -140,7 +140,7 @@ A pull-to-refresh ListView which shows a loading spinner while your data reloads
 <img src="https://camo.githubusercontent.com/f4cd843dea61e9f9c10319fea6ecafb6f2b937d7/687474703a2f2f692e696d6775722e636f6d2f67566d727844652e706e67" Height="400">
 #### [react-native-refresher](https://github.com/syrusakbary/react-native-refresher)
 A pull to refresh ListView for React Native completely written in js. Also supports custom animations.  
-<img src="https://raw.githubusercontent.com/syrusakbary/react-native-refresher/master/screencasts/bar-indicator-top.gif) <img src="https://raw.githubusercontent.com/syrusakbary/react-native-refresher/master/screencasts/activity-indicator-fixed.gif" Height="400">
+<img src="https://raw.githubusercontent.com/syrusakbary/react-native-refresher/master/screencasts/bar-indicator-top.gif" Height="400"> <img src="https://raw.githubusercontent.com/syrusakbary/react-native-refresher/master/screencasts/activity-indicator-fixed.gif" Height="400">
 #### [RCTRefreshControl](https://github.com/Shuangzuan/RCTRefreshControl)
 <img src="https://raw.githubusercontent.com/Shuangzuan/RCTRefreshControl/master/screen-shot.gif" Height="400">
 #### [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native)
