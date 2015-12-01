@@ -7,7 +7,7 @@ This resources list from Use React Native, [React native guide](https://github.c
 		- [App Sample](#app-sample)
 	- [UI Components](#ui-components)
 		- [Material Design](#material-design)
-		- [Click](#click)
+		- [Click](#clicrak)
 		- [Images](#images)
 		- [List](#list)
 		- [Layout](#layout)
@@ -50,7 +50,7 @@ This is a port of MaterialKit (written in Swift) to Objective-C, so that it can 
 #### [apsl-react-native-button](https://github.com/APSL/react-native-button) 
 <img src="https://raw.githubusercontent.com/wiki/APSL/react-native-button/button.png" Height="400">
 #### [react-native-radio-buttons](https://github.com/ArnaudRinquin/react-native-radio-buttons)
-<img src="https://raw.githubusercontent.com/ArnaudRinquin/react-native-radio-buttons/master/images/example.png" Height="400">
+<img src="https://raw.githubusercontent.com/ArnaudRinquin/react-native-radio-buttons/master/images/example.png" Height="800">
 
 #### [Simple DropDown](https://github.com/alinz/react-native-dropdown) 
 <img src="https://raw.githubusercontent.com/alinz/react-native-dropdown/master/dropdown.gif" Height="400">
@@ -105,7 +105,7 @@ iOS-style listitem component for React Native
 ### Layout
 #### [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view)
 Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar.  
-<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif)   <img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif" Height="400">
+<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif" Height="400">   <img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif" Height="400">
 #### [react-native-parallax-view](https://github.com/lelandrichardson/react-native-parallax-view)
 Parallax view for vertical scrollview with a header image and header content  
 <img src="https://camo.githubusercontent.com/07df318dc85ff925e4043b9fd240315518733aa0/687474703a2f2f692e67697068792e636f6d2f785469546e65654362316e7061476f72686d2e676966" Height="400">
