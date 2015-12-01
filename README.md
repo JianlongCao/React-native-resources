@@ -29,7 +29,8 @@ This resources list from Use React Native, [React native guide](https://github.c
 		- [Localization](#localization)
 
 ## Get Started
-### Tutorial
+### Tutorial  
+#### [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 #### [React native lessons(React native 入门指南) from engineer of CTRIP（携程)](https://github.com/vczero/react-native-lession)
  - 实例应用，组件
  - PPT分享
