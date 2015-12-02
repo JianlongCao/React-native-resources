@@ -96,7 +96,8 @@ Define chart components in Javascript file and see rendered charts using Core Gr
  - Supports line charts with options to show data points, line fill, customized color, customized labels, etc...  
  - Supports bar charts  
  - Supports multiple charts in one view  
- - Show animation when populating the chart  
+ - Show animation when populating the chart    
+
 #### [react-native-lightbox](https://github.com/oblador/react-native-lightbox)
 Images etc in Full Screen Lightbox Popovers for React Native  
 <img src="https://cloud.githubusercontent.com/assets/378279/9074360/16eac5d6-3b09-11e5-90af-a69980e9f4be.gif" Height="400">
@@ -118,12 +119,12 @@ iOS-style listitem component for React Native
 ### Layout
 #### [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view)
 Tabbed navigation that you can swipe between, each tab can have its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar.  
-<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif" Height="400">   <img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif" Height="400">
+<img src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif" Height="400">   <img  src="https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif" Height="400">  
 #### [react-native-parallax-view](https://github.com/lelandrichardson/react-native-parallax-view)
 Parallax view for vertical scrollview with a header image and header content  
-<img src="https://camo.githubusercontent.com/07df318dc85ff925e4043b9fd240315518733aa0/687474703a2f2f692e67697068792e636f6d2f785469546e65654362316e7061476f72686d2e676966" Height="400">
+<img src="https://camo.githubusercontent.com/07df318dc85ff925e4043b9fd240315518733aa0/687474703a2f2f692e67697068792e636f6d2f785469546e65654362316e7061476f72686d2e676966" Height="400">  
 #### [autoresponsive-react-native](https://github.com/xudafeng/autoresponsive-react-native)  
-<img src="https://raw.githubusercontent.com/xudafeng/autoresponsive_react_native_sample/master/screenshot.gif" Height="400">
+<img src="https://raw.githubusercontent.com/xudafeng/autoresponsive_react_native_sample/master/screenshot.gif" Height="400">  
 #### [react-native-side-menu](https://github.com/react-native-fellowship/react-native-side-menu)
 Simple customizable component to create side menu.  
 <img src="https://camo.githubusercontent.com/aa4203d407bc63d3b04a08a2bcbc3b706397984a/687474703a2f2f6f6936312e74696e797069632e636f6d2f326e396c32647a2e6a7067" Height="400">
