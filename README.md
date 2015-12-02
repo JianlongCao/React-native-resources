@@ -51,6 +51,7 @@ This resources list from Use React Native, [React native guide](https://github.c
 <img src="https://camo.githubusercontent.com/e9abbeafdc8c1a44f6a5b6ed55fad2ed890b60af/68747470733a2f2f686162726173746f726167652e6f72672f66696c65732f3864662f3666372f3933302f38646636663739333039353334346537393330343434383535353938666561302e706e67" Height="400">  <img src="https://camo.githubusercontent.com/4ba5ad63939ff246ad87f63d8efdcb1a60d15c69/687474703a2f2f692e696d6775722e636f6d2f794936536369782e676966" Height="400">  <img src="https://camo.githubusercontent.com/0e1b66d7558cd8c40efa6a1d31ba24d578b4e845/687474703a2f2f692e696d6775722e636f6d2f6d7155775264412e676966" Height="400">
 
 ## UI Components
+search for more in [react parts](https://react.parts/)
 ### Material Design
 #### [react-native-material-kit](https://github.com/xinthink/react-native-material-kit) 
 This is a port of MaterialKit (written in Swift) to Objective-C, so that it can be used in React Native projects, as a static library.  
