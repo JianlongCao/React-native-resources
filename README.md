@@ -20,6 +20,7 @@ This resources list from Use React Native, [React native guide](https://github.c
 		- [Remote](#remote)
 		- [Auth](#auth)
 		- [MultiMedia & Contact](#multimedia--contact)
+		- [Data Fetch](#data-fetch)
 		- [Database](#database)
 		- [Search](#search)
 		- [ActionSheet](#actionsheet)
@@ -38,6 +39,14 @@ This resources list from Use React Native, [React native guide](https://github.c
 ### APP Sample
 #### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
 <img src="https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg" Height="400"/>   
+#### [React native dribbble app](https://github.com/catalinmiron/react-native-dribbble-app)  
+<img src="https://cloud.githubusercontent.com/assets/2805320/9274780/1ca63a6a-42a1-11e5-8570-2c2781ec721f.gif" Height="400"/>  
+#### [Hacker news for React native](https://github.com/iSimar/HackerNews-React-Native)
+<img src="https://camo.githubusercontent.com/d5c5de05fb6db0a9653f7f8b6de3afcf1da8cd71/687474703a2f2f692e696d6775722e636f6d2f42376670376c682e706e67" Height="400"/>
+#### [Noder - A React-Native Client for cnodejs.org](https://github.com/soliury/noder-react-native)
+<img src="https://camo.githubusercontent.com/08008eeea48cc73a1709676ed2390d9ad14313e7/687474703a2f2f376c727a666a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f736f6c697572796e6f6465722d76312e302e302e676966" Height="400">  
+#### [react natvie weather app](https://github.com/shevawen/react-native-weather-app)
+<img src="https://github.com/shevawen/react-native-weather-app/raw/master/App%20Screen%20Shot.png" Height="400">
 
 ## UI Components
 ### Material Design
@@ -230,6 +239,9 @@ addContact - adds a contact to the AddressBook.
 #### [react-native-mail](https://github.com/chirag04/react-native-mail)
  A react-native wrapper on top of apple's MFMailComposeViewController.  
 
+### Data Fetch
+#### [building-the-facebook-news-feed-with-relay](http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+#### [React transmit](https://github.com/RickWong/react-transmit)
 
 ### Database
 #### [react-native-sqlite](https://github.com/almost/react-native-sqlite)
