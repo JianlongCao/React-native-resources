@@ -32,7 +32,7 @@ This resources list from Use React Native, [React native guide](https://github.c
 ## Get Started
 ### Tutorial  
 #### [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-#### [用JavaScript搭建高性能App—React Native实战教程](http://www.1ke.co/course/269)
+#### [React Native Tutorial: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 #### [React native lessons(React native 入门指南) from engineer of CTRIP（携程)](https://github.com/vczero/react-native-lession)
  - 实例应用，组件
  - PPT分享
