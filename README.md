@@ -31,6 +31,7 @@ This resources list from Use React Native, [React native guide](https://github.c
 
 ## Get Started
 ### Tutorial  
+#### [ECMA 6 Guide in Chinese](http://es6.ruanyifeng.com/)
 #### [Flexbox Complete Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 #### [React Native Tutorial: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 #### [Make HTTP Requests In iOS With React Native](https://blog.nraboy.com/2015/09/make-http-requests-in-ios-with-react-native/)
