@@ -39,6 +39,10 @@ This resources list from Use React Native, [React native guide](https://github.c
  - 实例应用，组件
  - PPT分享
 
+#### Stateless functional component
+ - [egg head video tutorial,Building stateless function components](https://egghead.io/lessons/react-building-stateless-function-components-new-in-react-0-14)
+ - [Functional Stateless Components in React 0.14](https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.j0kcn5fif)
+
 ### APP Sample
 #### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
 <img src="https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg" Height="400"/>   
