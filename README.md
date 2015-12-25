@@ -43,6 +43,12 @@ This resources list from Use React Native, [React native guide](https://github.c
  - [egg head video tutorial,Building stateless function components](https://egghead.io/lessons/react-building-stateless-function-components-new-in-react-0-14)
  - [Functional Stateless Components in React 0.14](https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d#.j0kcn5fif)
 
+#### Redux
+ - [Get started Video](https://egghead.io/series/getting-started-with-redux)
+ - [Trying to put API calls in the correct place](https://github.com/rackt/redux/issues/291) : nice explaination on how to deal with login api in Redux
+ - [awesome redux](https://github.com/xgrommx/awesome-redux)
+
+
 ### APP Sample
 #### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
 <img src="https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg" Height="400"/>   
