@@ -48,6 +48,7 @@ This resources list from Use React Native, [React native guide](https://github.c
  - [Trying to put API calls in the correct place](https://github.com/rackt/redux/issues/291) : nice explaination on how to deal with login api in Redux
  - [awesome redux](https://github.com/xgrommx/awesome-redux)
  - [smart and dumb components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.akxre8yo7)
+ - [Redux Middleware: Behind the Scenes](http://briantroncone.com/?p=529)
 
 ### APP Sample
 #### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
