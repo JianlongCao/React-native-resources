@@ -50,6 +50,10 @@ This resources list from Use React Native, [React native guide](https://github.c
  - [smart and dumb components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.akxre8yo7)
  - [Redux Middleware: Behind the Scenes](http://briantroncone.com/?p=529)
 
+#### React
+ - [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy)
+ - [Interactivity and Dynamic UIs](http://facebook.github.io/react/docs/interactivity-and-dynamic-uis.html)
+
 ### APP Sample
 #### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
 <img src="https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg" Height="400"/>   
