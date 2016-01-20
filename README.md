@@ -54,6 +54,9 @@ This resources list from Use React Native, [React native guide](https://github.c
  - [Thinking in React](http://facebook.github.io/react/docs/thinking-in-react.html#step-1-break-the-ui-into-a-component-hierarchy)
  - [Interactivity and Dynamic UIs](http://facebook.github.io/react/docs/interactivity-and-dynamic-uis.html)
 
+#### ECMAScript  
+ - [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)  
+
 ### APP Sample
 #### [DEN( iPhone app built with React Native for viewing houses for sale in the NW from rmls.com )](https://github.com/asamiller/den)
 <img src="https://cloud.githubusercontent.com/assets/5133623/7338978/01976cce-ec13-11e4-9b79-f2e2e47503b6.jpg" Height="400"/>   
